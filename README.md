@@ -40,12 +40,14 @@ This portfolio simulates the daily responsibilities of a **Back Office - Policy 
 ### 1️⃣ Claims Document Classification
 
 > Review incoming claimant records and segregate them into **Medical**, **Non-Medical**, and **Bill** categories.
+## Files
 
-| File | Purpose |
-|---|---|
-| [Claims Classification Project](Project_1_Claims_Classification/Claims_Classification_Project.xlsx) | Interactive claims register with 30 fictional records |
-| [Claims Classification SOP](Project_1_Claims_Classification/Claims_Classification_SOP.docx) | Step-by-step record-review procedure |
-| [Claims Exception Escalation](Project_1_Claims_Classification/Claims_Exception_Escalation.eml) | Outlook-compatible escalation email |
+- [Download the Excel project](Claims_Classification_Project.xlsx)
+- [Download the Word SOP](Claims_Classification_SOP.docx)
+- [Download the Outlook email](Claims_Exception_Escalation.eml)
+- [⬇️ Download the Excel project](Claims_Classification_Project.xlsx?raw=1)
+- [⬇️ Download the Word SOP](Claims_Classification_SOP.docx?raw=1)
+- [⬇️ Download the Outlook email](Claims_Exception_Escalation.eml?raw=1)
 
 <details>
 <summary><strong>What this project demonstrates</strong></summary>
